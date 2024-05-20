@@ -1,4 +1,4 @@
-# Welcome to the world of Ascii Art!
+
 # Welcome to the Ascii Cult
 
 ## HOW TO USE
