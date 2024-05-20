@@ -1,5 +1,5 @@
 # Welcome to the world of Ascii Art!
-#Welcome to the Ascii Cult
+# Welcome to the Ascii Cult
 
 ## HOW TO USE
 * upload the folder into the IDE of your choice
